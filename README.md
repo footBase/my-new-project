@@ -1,74 +1,66 @@
-# my-new-project
-Building AI course project
+# Environment data visualization
+
+Idea to optimize learning by combining self-expirience & data visualization. 
+
+
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+This would brinng information to the user thru eyesight, by using world libary compareshment. Unregenaicible data would be added to the libary and all the information relating to it. 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Environment A.I visualiziser :  
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* Visual libary information
+* Survival guide
+* User optimizer
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Information would be provided as visual and voice.
+There would be three parts, whom the user itself would be able to install. User control by eye movoment, voice detection, Motherboard controlls. 
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+### Lens
+<a title="Rob Simmonds from King&#039;s Lynn, Norfolk, UK, CC BY-SA 2.0 &lt;https://creativecommons.org/licenses/by-sa/2.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Eye_eye_-_Flickr_-_memoreks.jpg"><img width="200" alt="Eye eye - Flickr - memoreks" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Eye_eye_-_Flickr_-_memoreks.jpg/512px-Eye_eye_-_Flickr_-_memoreks.jpg"></a>
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+Lens would provide visual information as guidance, by following pupil movement.
+The lens would be removable at anytime, so surgical procedure wouldn't be needed.
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
+### Ear device
+<a title="David Benbennick, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Ear.jpg"><img width="200" alt="Ear" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ear.jpg/256px-Ear.jpg"></a>
 
-   totPop = sum(pop)
-   totFish = sum(fishers)
+Voice guidance thru ear device, where information and navigation would be provided. This device would be installed to ear canal, by the user. 
 
-   # write your solution here
 
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
+### Motherboard
+<a title="Rafael Fernandez, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:IPhone_X_vector.svg"><img width="200" alt="IPhone X vector" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/IPhone_X_vector.svg/256px-IPhone_X_vector.svg.png"></a>
 
-main()
-```
+Motherboard would have similar features as smart phone, also place for users personal A.I.
+* A.I recognizing
+* Access to world libary
+* Visual data storing
+* Connection: lens/ear device 
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Data would be collected to wordl libary and updated by institutions and users.  
 
 ## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Keeping information accessible to users
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+Project will improve with data
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Thanks alot for this open online course.
+<br>IMG.1: [Eye flickr by Rob Simmonds , CC BY-SA 2.0](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Eye_eye_-_Flickr_-_memoreks.jpg/512px-Eye_eye_-_Flickr_-_memoreks.jpg) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
+<br>IMG.2: [Ear by David Benbennick, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ear.jpg/256px-Ear.jpg) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+<br>IMG.3 : [IPhone X vector by Rafael Fernandez](https://commons.wikimedia.org/wiki/File:IPhone_X_vector.svg) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+
+
